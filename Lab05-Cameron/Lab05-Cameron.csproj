@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Coachella.cs" />
+    <Compile Include="Concerts.cs" />
+    <Compile Include="LocalVenue.cs" />
+    <Compile Include="MTV.cs" />
+    <Compile Include="MusicFest.cs" />
+    <Compile Include="OpenMic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Unplugged.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
